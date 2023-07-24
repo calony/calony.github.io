@@ -1,5 +1,6 @@
 ## Qing Zhang
-I live in Montreal, Canada. This is a page I created to showcase some of the projects I am working on.
+I live in Montreal, Canada. This is a page I created to showcase some of the projects I am working on. 
+My Google scholar page on my publications and patents can be found [here](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en).
 
 ---
 **Bixi Montreal 2018 Data Analysis**  
