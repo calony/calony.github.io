@@ -3,22 +3,19 @@ I live in Montreal, Canada. This is a page I created to showcase some of the pro
 My Google scholar page on my publications and patents can be found [here](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en).
 
 ---
-# **Public Measures in Quebec during the COVID Pandemic: A Regression Project**
-Use Regression discontinuity design (RDD) to estimate the effect of the following 3 Public Measures in Quebc during COVID:
-1.The 20/3/2020 lockdown
-2.The reopening of schools on 31/8/2020
-3.The 25/12/2020 lockdown
-Data Source: [Donnee Quebec](https://www.donneesquebec.ca/recherche/dataset/covid-19-portrait-quotidien-des-cas-confirmes)
-[Jupyter Notebook]
-Tags: Pandas, Linear and Logistic Regression, Statsmodels, Scikit-Learn
+**Public Measures in Quebec during the COVID Pandemic: A Regression Project**\
+Use Regression discontinuity design (RDD) to estimate the effect of 3 Public Measures in Quebc during COVID\
+Data Source: [Donnee Quebec](https://www.donneesquebec.ca/recherche/dataset/covid-19-portrait-quotidien-des-cas-confirmes)\
+[Jupyter Notebook]\
+Tags: Pandas, Linear and Logistic Regression, Statsmodels, Scikit-learn
 
-# **Bixi Montreal 2018 Data Analysis**  
+**Bixi Montreal 2018 Data Analysis**  
 Data Source: [City of Montreal](http://donnees.ville.montreal.qc.ca/)  
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/calony/Data_analysis_BIXI/blob/master/BixiMontrealRentals2018.ipynb)   
 Tags: Pandas, Exploratory Data analysis
 
 
-# **Financial Data Analysis**  
+**Financial Data Analysis**  
 Data Source: Internet API sources  
-[Jupyter Notebook](https://nbviewer.jupyter.org/github/calony/finance-project/blob/master/Fin_testbench.ipynb)   
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/calony/finance-project/blob/master/Fin_testbench.ipynb) 
 Tags: Pandas, Monte Carlo Simulation
