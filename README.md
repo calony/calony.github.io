@@ -6,7 +6,7 @@ My Google scholar page on my publications and patents can be found [here](https:
 **Public Measures in Quebec during the COVID Pandemic: A Regression Project**\
 Use Regression discontinuity design (RDD) to estimate the effect of 3 Public Measures in Quebc during COVID\
 Data Source: [Donnee Quebec](https://www.donneesquebec.ca/recherche/dataset/covid-19-portrait-quotidien-des-cas-confirmes)\
-[Jupyter Notebook]\
+[Jupyter Notebook](https://nbviewer.org/github/calony/RDD_project/blob/main/RDD_Covid.ipynb)\
 Tags: Pandas, Linear and Logistic Regression, Statsmodels, Scikit-learn
 
 **Bixi Montreal 2018 Data Analysis**  
@@ -16,6 +16,6 @@ Tags: Pandas, Exploratory Data analysis
 
 
 **Financial Data Analysis**  
-Data Source: Internet API sources  
-[Jupyter Notebook](https://nbviewer.jupyter.org/github/calony/finance-project/blob/master/Fin_testbench.ipynb) 
+Data Source: Internet API sources\
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/calony/finance-project/blob/master/Fin_testbench.ipynb)\
 Tags: Pandas, Monte Carlo Simulation
