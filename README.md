@@ -4,7 +4,7 @@ My Google scholar page on my publications and patents can be found [here](https:
 
 ---
 **Estimating the effect of Public Measures in Quebec during the COVID Pandemic: A Regression Project**
-*Use Regression discontinuity design (RDD) to identify the effect of the following 3 Public Measures in Quebc during COVID
+Use Regression discontinuity design (RDD) to identify the effect of the following 3 Public Measures in Quebc during COVID
   - The 20/3/2020 lockdown
   - The reopening of schools on 31/8/2020
   - The 25/12/2020 lockdown
