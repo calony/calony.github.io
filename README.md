@@ -4,8 +4,8 @@ My Google scholar page on my publications and patents can be found [here](https:
 
 ---
 ### [Topic Modelling Project](https://github.com/calony/subreddit_topic_modelling)
-- Use Regression discontinuity design (RDD) to estimate the effect of 3 Public Measures in Quebc during the COVID Pandemic
-- Data Source: [Reddit r/datascience](reddit.com/r/datascience/)
+- Use Topic modelling and dimentionality reduction techniques to cluster posts extracted from Data Science subreddit
+- Data Source: [datascience subreddit](https://www.reddit.com/r/datascience/)
 - [Jupyter Notebook](https://github.com/calony/subreddit_topic_modelling/blob/main/subreddit_topic_modeling.ipynb)
 - Tags: API data extraction, Topic modelling, Dimensionality reduction
 
