@@ -1,8 +1,17 @@
 ## Qing Zhang
-I live in Montreal, Canada. This is a page I created to showcase some of the projects I am working on. 
-My Google scholar page on my publications and patents can be found [here](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en).
+I live in Montreal, Canada. This is a page I created to showcase mye projects in Data Science and Machine Learning. 
+My Google scholar page on my publications and patents not related to DS/ML can be found [here](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en).
 
 ---
+### [CNN Bird Classification Project](https://github.com/calony/bird_classification_project)
+- Build a Covolutional Neural Network to classify 15 bird species
+- Data Source: [kaggle](https://www.kaggle.com/gpiosenka/100-bird-species)
+- [Jupyter Notebook](https://github.com/calony/bird_classification_project/blob/main/kaggle_final_15-species-classification.ipynb)
+- Tags: CNN, image classification, deep learning
+
+
+
+
 ### [Topic Modelling Project](https://github.com/calony/subreddit_topic_modelling)
 - Use Topic modelling and dimentionality reduction techniques to cluster posts extracted from Data Science subreddit
 - Data Source: [datascience subreddit](https://www.reddit.com/r/datascience/)
