@@ -1,6 +1,6 @@
 ## Qing (Ching) Zhang
 I live in Montreal, Canada. This is a page I created to showcase my projects in Data Science and Machine Learning. 
-My publications and patents not related to DS/ML can be found on [Google Scholar](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en).
+My publications and patents not related to DS/ML can be found on [Google Scholar](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en). My resume can be found on [LinkedIn](https://www.linkedin.com/in/tsingzhang/).
 
 ---
 ### [CNN Bird Classification Project](https://github.com/calony/bird_classification_project)
