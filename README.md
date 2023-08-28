@@ -1,10 +1,10 @@
-## Qing Zhang
+## Qing (Ching) Zhang
 I live in Montreal, Canada. This is a page I created to showcase my projects in Data Science and Machine Learning. 
 My publications and patents not related to DS/ML can be found on [Google Scholar](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en).
 
 ---
 ### [CNN Bird Classification Project](https://github.com/calony/bird_classification_project)
-- Build a Covolutional Neural Network to classify 15 bird species
+- Build a Convolutional Neural Network to classify 15 bird species
 - Data Source: [kaggle](https://www.kaggle.com/gpiosenka/100-bird-species)
 - [Jupyter Notebook](https://github.com/calony/bird_classification_project/blob/main/kaggle_final_15-species-classification.ipynb)
 - Tags: CNN, image classification, deep learning
