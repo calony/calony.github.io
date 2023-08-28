@@ -1,5 +1,5 @@
 ## Qing Zhang
-I live in Montreal, Canada. This is a page I created to showcase mye projects in Data Science and Machine Learning. 
+I live in Montreal, Canada. This is a page I created to showcase my projects in Data Science and Machine Learning. 
 My Google scholar page on my publications and patents not related to DS/ML can be found [here](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en).
 
 ---
