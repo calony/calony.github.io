@@ -3,6 +3,14 @@ I live in Montreal, Canada. This is a page I created to showcase some of the pro
 My Google scholar page on my publications and patents can be found [here](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en).
 
 ---
+### [Topic Modelling Project](https://github.com/calony/subreddit_topic_modelling)
+- Use Regression discontinuity design (RDD) to estimate the effect of 3 Public Measures in Quebc during the COVID Pandemic
+- Data Source: [Reddit r/datascience](reddit.com/r/datascience/)
+- [Jupyter Notebook](https://github.com/calony/subreddit_topic_modelling/blob/main/subreddit_topic_modeling.ipynb)
+- Tags: API data extraction, Topic modelling, Dimensionality reduction
+
+
+
 ### [Concordia Bootcamp Regression Project](https://github.com/calony/RDD_project)
 - Use Regression discontinuity design (RDD) to estimate the effect of 3 Public Measures in Quebc during the COVID Pandemic
 - Data Source: [Donnee Quebec](https://www.donneesquebec.ca/recherche/dataset/covid-19-portrait-quotidien-des-cas-confirmes)
@@ -16,6 +24,8 @@ My Google scholar page on my publications and patents can be found [here](https:
 - Data Source: artifical data
 - [Jupyter Notebook](https://nbviewer.org/github/calony/bank_algorithm_project/blob/main/KMeans_clustering.ipynb)
 - Tags: Kmeans Clustering, Algorithm, Pandas, Data Visualization, Scikit-learn
+
+
 
 ### [Costco Warehouse Sales Tracking](https://github.com/calony/Costco_price_track)
 - As a devoted fan of Costco, I'm interested in knowing the frequency of an item going on sale at Costco Warehouse and the price history of an item.
