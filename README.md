@@ -3,13 +3,13 @@ I live in Montreal, Canada. This is a page I created to showcase my projects in 
 My publications and patents not related to DS/ML can be found on [Google Scholar](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en). My resume can be found on [LinkedIn](https://www.linkedin.com/in/tsingzhang/).
 
 ---
-### [Name Forcast and Generator Project](https://github.com/calony/name_forcast_generator)
-- Build a ARIMA model to forcast yearly name frequency
+### [Name Forecast and Generator Project](https://github.com/calony/name_forcast_generator)
+- Build a ARIMA model to forecast yearly name frequency
 - Implement a character-level lanuage mode to generate new names
 - Data Source: [Donnee Quebec](https://www.donneesquebec.ca/recherche/dataset/banque-de-prenoms-garcons)
 - [Jupyter Notebook - Name Forcast](https://github.com/calony/name_forcast_generator/blob/main/name_forcasting.ipynb)
 - [Jupyter Notebook - Name Generator](https://github.com/calony/name_forcast_generator/blob/main/name_LSTM.ipynb)
-- Tags: ARIMA, Time Series, LSTM, Language Model
+- Tags: ARIMA, Time Series Forecasting, LSTM, Language Model
 
 
 
