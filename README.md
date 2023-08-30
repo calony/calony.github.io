@@ -5,7 +5,7 @@ My publications and patents not related to DS/ML can be found on [Google Scholar
 ---
 ### [Name Forecast and Generator Project](https://github.com/calony/name_forcast_generator)
 - Build a ARIMA model to forecast yearly name frequency
-- Implement a character-level lanuage mode to generate new names
+- Implement a character-level language model to generate new names
 - Data Source: [Donnee Quebec](https://www.donneesquebec.ca/recherche/dataset/banque-de-prenoms-garcons)
 - [Jupyter Notebook - Name Forcast](https://github.com/calony/name_forcast_generator/blob/main/name_forcasting.ipynb)
 - [Jupyter Notebook - Name Generator](https://github.com/calony/name_forcast_generator/blob/main/name_LSTM.ipynb)
