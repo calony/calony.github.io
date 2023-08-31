@@ -30,7 +30,7 @@ My publications and patents not related to DS/ML can be found on [Google Scholar
 
 
 ### [Topic Modelling Project](https://github.com/calony/subreddit_topic_modelling)
-- Use Topic modelling and dimentionality reduction techniques to cluster posts extracted from Data Science subreddit
+- Use Topic modelling and dimensionality reduction techniques to cluster posts extracted from Data Science subreddit
 - Data Source: [datascience subreddit](https://www.reddit.com/r/datascience/)
 - [Jupyter Notebook](https://github.com/calony/subreddit_topic_modelling/blob/main/subreddit_topic_modeling.ipynb)
 - Tags: API data extraction, Topic modelling, Dimensionality reduction
