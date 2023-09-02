@@ -3,20 +3,18 @@ I live in Montreal, Canada. This is a page I created to showcase my projects in 
 My publications and patents not related to DS/ML can be found on [Google Scholar](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en). My resume can be found on [LinkedIn](https://www.linkedin.com/in/tsingzhang/).
 
 ---
-### [Name Forecast and Generator Project](https://github.com/calony/name_forcast_generator)
-- Build a ARIMA model to forecast yearly name frequency
-- Implement a character-level language model to generate new names
+### [Quebec Baby Name Project](https://github.com/calony/name_forcast_generator)
+- Deploy a [web app](https://baby-name-visualization-dash-app.onrender.com/) to visualize the evolution of baby name frequency through time in Quebec
+- Build a ARIMA model to forecast yearly name frequency ([Jupyter Notebook](https://github.com/calony/name_forcast_generator/blob/main/name_forcasting.ipynb))
+- Implement a character-level language model to generate new baby names ([Jupyter Notebook](https://github.com/calony/name_forcast_generator/blob/main/name_LSTM.ipynb))
 - Data Source: [Donnee Quebec](https://www.donneesquebec.ca/recherche/dataset/banque-de-prenoms-garcons)
-- [Jupyter Notebook - Name Forcast](https://github.com/calony/name_forcast_generator/blob/main/name_forcasting.ipynb)
-- [Jupyter Notebook - Name Generator](https://github.com/calony/name_forcast_generator/blob/main/name_LSTM.ipynb)
-- Tags: ARIMA, Time Series Forecasting, LSTM, Language Model
+- Tags: Plotly, Dash, Time Series Forecasting, LSTM, Language Model
 
 
 
 ### [CNN Bird Classification Project](https://github.com/calony/bird_classification_project)
-- Build a Convolutional Neural Network to classify 15 bird species
+- Build a Convolutional Neural Network to classify 15 bird species ([Jupyter Notebook](https://github.com/calony/bird_classification_project/blob/main/kaggle_final_15-species-classification.ipynb))
 - Data Source: [kaggle](https://www.kaggle.com/gpiosenka/100-bird-species)
-- [Jupyter Notebook](https://github.com/calony/bird_classification_project/blob/main/kaggle_final_15-species-classification.ipynb)
 - Tags: CNN, image classification, deep learning
 
 
@@ -29,46 +27,43 @@ My publications and patents not related to DS/ML can be found on [Google Scholar
 - Tags: SQL, Machine Learning pipeline
 
 
+
 ### [Topic Modelling Project](https://github.com/calony/subreddit_topic_modelling)
-- Use Topic modelling and dimensionality reduction techniques to cluster posts extracted from Data Science subreddit
+- Use Topic modelling and dimensionality reduction techniques to cluster posts extracted from Data Science subreddit ([Jupyter Notebook](https://github.com/calony/subreddit_topic_modelling/blob/main/subreddit_topic_modeling.ipynb))
 - Data Source: [datascience subreddit](https://www.reddit.com/r/datascience/)
-- [Jupyter Notebook](https://github.com/calony/subreddit_topic_modelling/blob/main/subreddit_topic_modeling.ipynb)
 - Tags: API data extraction, Topic modelling, Dimensionality reduction
 
 
 
 ### [Concordia Bootcamp Regression Project](https://github.com/calony/RDD_project)
-- Use Regression discontinuity design (RDD) to estimate the effect of 3 Public Measures in Quebc during the COVID Pandemic
+- Use Regression discontinuity design (RDD) to estimate the effect of 3 Public Measures in Quebc during the COVID Pandemic ([Jupyter Notebook](https://nbviewer.org/github/calony/RDD_project/blob/main/RDD_Covid.ipynb))
 - Data Source: [Donnee Quebec](https://www.donneesquebec.ca/recherche/dataset/covid-19-portrait-quotidien-des-cas-confirmes)
-- [Jupyter Notebook](https://nbviewer.org/github/calony/RDD_project/blob/main/RDD_Covid.ipynb)
 - Tags: Pandas, Linear and Logistic Regression, Statsmodels, Scikit-learn
 
 
 
 ### [Concordia Bootcamp Algorithm Project](https://github.com/calony/bank_algorithm_project)
-- Maximize the money collected from a list of banks with given locations within a 24-hour period
+- Maximize the money collected from a list of banks with given locations within a 24-hour period ([Jupyter Notebook](https://nbviewer.org/github/calony/bank_algorithm_project/blob/main/KMeans_clustering.ipynb))
 - Data Source: artifical data
-- [Jupyter Notebook](https://nbviewer.org/github/calony/bank_algorithm_project/blob/main/KMeans_clustering.ipynb)
 - Tags: Kmeans Clustering, Algorithm, Pandas, Data Visualization, Scikit-learn
 
 
 
 ### [Costco Warehouse Sales Tracking](https://github.com/calony/Costco_price_track)
-- As a devoted fan of Costco, I'm interested in knowing the frequency of an item going on sale at Costco Warehouse and the price history of an item.
+- As a devoted fan of Costco, I'm interested in knowing the frequency of an item going on sale at Costco Warehouse and the price history of an item ([Jupyter Notebook](https://nbviewer.org/github/calony/Costco_price_track/blob/main/costco_model.ipynb))
 - Data Source: [Costco East Fan Blog](https://cocoeast.ca/category/monday-treasure-hunt/)
-- [Jupyter Notebook](https://nbviewer.org/github/calony/Costco_price_track/blob/main/costco_model.ipynb)
 - Tags: BeautifulSoup, Pandas, Data Visualization
 
 
 
-### [Bixi Montreal 2018 Data Analysis](https://github.com/calony/Data_analysis_BIXI)
-- Data Source: [City of Montreal](http://donnees.ville.montreal.qc.ca/)  
-- [Jupyter Notebook](https://nbviewer.jupyter.org/github/calony/Data_analysis_BIXI/blob/master/BixiMontrealRentals2018.ipynb)   
+### [BIXI Montreal 2018 Data Analysis](https://github.com/calony/Data_analysis_BIXI)
+- Exploratory data analysis on a dataset from BIXI montreal ([Jupyter Notebook](https://nbviewer.jupyter.org/github/calony/Data_analysis_BIXI/blob/master/BixiMontrealRentals2018.ipynb))
+- Data Source: [City of Montreal](http://donnees.ville.montreal.qc.ca/) 
 - Tags: Pandas, Exploratory Data analysis
 
 
 
 ### [Financial Data Analysis](https://github.com/calony/finance-project)
+- Algorithmic trading with momentum ([Jupyter Notebook](https://nbviewer.jupyter.org/github/calony/finance-project/blob/master/Fin_testbench.ipynb))
 - Data Source: Internet API sources
-- [Jupyter Notebook](https://nbviewer.jupyter.org/github/calony/finance-project/blob/master/Fin_testbench.ipynb)
 - Tags: Pandas, Monte Carlo Simulation
