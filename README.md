@@ -12,19 +12,19 @@ My publications and patents not related to DS/ML can be found on [Google Scholar
 
 
 
-### [CNN Bird Classification Project](https://github.com/calony/bird_classification_project)
-- Build a Convolutional Neural Network to classify 15 bird species ([Jupyter Notebook](https://github.com/calony/bird_classification_project/blob/main/kaggle_final_15-species-classification.ipynb))
-- Data Source: [kaggle](https://www.kaggle.com/gpiosenka/100-bird-species)
-- Tags: CNN, image classification, deep learning
-
-
-
 ### [SQL and ML Pipeline Project](https://github.com/calony/SQL_ML_pipeline)
 - Explore and query a database using SQLite and Pandas
 - Build a machine learning pipeline to find the best estimator for a regression task
 - Data Source: [mpg.db](https://github.com/calony/SQL_ML_pipeline/blob/main/data/mpg.db)
 - [Jupyter Notebook](https://github.com/calony/SQL_ML_pipeline/blob/main/SQL_Pipeline.ipynb)
 - Tags: SQL, Machine Learning pipeline
+
+
+
+### [CNN Bird Classification Project](https://github.com/calony/bird_classification_project)
+- Build a Convolutional Neural Network to classify 15 bird species ([Jupyter Notebook](https://github.com/calony/bird_classification_project/blob/main/kaggle_final_15-species-classification.ipynb))
+- Data Source: [kaggle](https://www.kaggle.com/gpiosenka/100-bird-species)
+- Tags: CNN, image classification, deep learning
 
 
 
