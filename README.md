@@ -1,6 +1,8 @@
 ## Qing (Ching) Zhang
-I live in Montreal, Canada. This is a page I created to showcase my projects in Data Science and Machine Learning. 
-My publications and patents not related to DS/ML can be found on [Google Scholar](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en). My resume can be found on [LinkedIn](https://www.linkedin.com/in/tsingzhang/).
+I live in Montreal, Canada. This is a page I created to showcase my projects in Data Science and Machine Learning. Here are some other links about me that might interest you.
+- Tableau Public [Profile page](https://public.tableau.com/app/profile/qing.zhang1942)
+- [Google Scholar page ](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en) on publications and patents 
+- [Resume](https://www.linkedin.com/in/tsingzhang/) on LinkedIn
 
 ---
 ### [Quebec Baby Name Project](https://github.com/calony/name_forcast_generator)
