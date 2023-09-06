@@ -1,6 +1,6 @@
 ## Qing (Ching) Zhang
 I live in Montreal, Canada. This is a page I created to showcase my projects in Data Science and Machine Learning. Here are some other links about me that might interest you.
-- Tableau Public [Profile page](https://public.tableau.com/app/profile/qing.zhang1942)
+- Tableau Public [Profile page](https://public.tableau.com/app/profile/tsingzhang)
 - [Google Scholar page ](https://scholar.google.ca/citations?user=BcklpsIAAAAJ&hl=en) on publications and patents 
 - [Resume](https://www.linkedin.com/in/tsingzhang/) on LinkedIn
 
