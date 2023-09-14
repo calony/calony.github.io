@@ -5,7 +5,7 @@ I live in Montreal, Canada. This is a page I created to showcase my projects in 
 - [Resume](https://www.linkedin.com/in/tsingzhang/) on LinkedIn
 
 ---
-### [Quebec Baby Name Project](https://github.com/calony/name_forcast_generator)
+### [Quebec Baby Name Project](https://github.com/calony/name_forecast_generator)
 - Deploy a [Web App](https://baby-name-visualization-dash-app.onrender.com/) to visualize the changing popularity of Quebec baby names 
 - Build a ARIMA model to forecast baby name trends ([Jupyter Notebook](https://github.com/calony/name_forcast_generator/blob/main/name_forcasting.ipynb))
 - Implement a character-level language model to generate unique baby names ([Jupyter Notebook](https://github.com/calony/name_forcast_generator/blob/main/name_LSTM.ipynb)) and deployed the model with Flask
